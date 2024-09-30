@@ -3,6 +3,11 @@
 /public/build
 /public/hot
 /public/storage
+/public/admin
+/public/fonts
+/public/images
+/public/img
+/public/js
 /storage/*.key
 /vendor
 .env
